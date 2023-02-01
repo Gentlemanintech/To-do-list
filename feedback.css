@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #a52a2a;
+}
+
+h2 {
+    padding: 15px 0;
+}

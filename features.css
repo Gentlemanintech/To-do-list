@@ -1,0 +1,22 @@
+#container {
+    text-align: center;
+    height: 430px;
+    margin: 20px auto 0;
+    opacity: 0.6;
+}
+
+#container>img {
+    margin: 20px auto ;
+}
+
+.info h3 p {
+ font-family: 'Nunito sans';
+}
+
+header {
+    height: 60px;
+    width: 100%;
+    background-color: #a52a2a;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}

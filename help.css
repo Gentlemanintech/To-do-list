@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #a52a2a;
+}
+
+p {
+    width: 50%;
+    margin: 10px auto;
+}
+
+h2 {
+    padding: 15px 0;
+}
+
+h5 {
+    width: 60%;
+    margin: 10px auto;
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+li>p {
+    margin: 10px auto;
+}
+
+#getting-started {
+    margin: 10px auto;
+}
+
+#first-task {
+    margin: 30px auto;
+}
+
+footer {
+    margin: 10px auto 20px;
+}
+
+a>button {
+    padding: 10px;
+    margin: 5px auto;
+    background-color: #a52a2a;
+    color: white;
+    border: none;
+}
+
+
+@media screen and (max-width: 500px) {
+    p {
+        width: 95%;
+        margin: 10px auto;
+    }
+  }
