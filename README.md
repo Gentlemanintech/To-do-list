@@ -20,7 +20,7 @@
 
 ## Getting Started
 <p>To use this to-do list, simply clone or download the repository, open the index.html file in your browser, and start adding items to your to-do list.<br />
-Or you can open the link <a href "https://todool.netlify.app/">Click here</a></p>
+Or you can open the link <a href = "https://todool.netlify.app/">Click here</a></p>
 
 ## Contributions 
 <p>If you wish to contribute to this project, please fork the repository, make your changes and submit a pull request. I welcome all contributions!</p>
